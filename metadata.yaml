@@ -1,0 +1,39 @@
+_repo: Pinafore-Palace_29378
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Smith, Nora Archibald
+    birthdate: 1859
+    deathdate: 1934
+    gutenberg_agent_id: '8693'
+    url: http://www.gutenberg.org/2009/agents/8693
+    wikipedia: http://en.wikipedia.org/wiki/Nora_Archibald_Smith
+  - agent_name: Wiggin, Kate Douglas Smith
+    aliases:
+    - Riggs, George Christopher, Mrs.
+    - Smith, Kate Douglas
+    - Wiggin, Samuel Bradley, Mrs.
+    - Riggs, Kate Douglas Smith Wiggin
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '266'
+    url: http://www.gutenberg.org/2009/agents/266
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
+description: ''
+gutenberg_issued: '2009-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nursery rhymes'
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+title: Pinafore Palace
+url: http://www.gutenberg.org/ebooks/29378
